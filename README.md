@@ -93,23 +93,26 @@ fun main() {
 <p align="center">
 
 ![「Rʟxғʟʏ⁴̅⁰͍⁴̵」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 </p>
+  
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TegarPriyadi&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarPriyadi&show_icons=true&theme=radical" />
 </p>
 
-  <br>
+<br>
+  
 <p align="center">
   <a href="https://github.com/TegarPriyadi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TegarPriyadi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
+<br>
+  
 <p align="center">
 
 <a href="https://github.com/TegarPriyadi">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TegarPriyadi&theme=monokai)
-
 </p>
 
 ### ⚙ &nbsp;GitHub Analytics
