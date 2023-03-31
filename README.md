@@ -63,7 +63,7 @@ fun main() {
 
 <br>
 
-<a href="https://saweria.co/TegarPriyadi"><img src="https://img.shields.io/badge/Saweria-	FFA500?style=for-the-badge&logo=Saweria&logoColor=white"/></a>
+<a href="https://saweria.co/TegarPriyadi"><img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=Saweria&logoColor=white"/>
 
 <a href="https://trakteer.id/TegarPriyadi"><img src="https://img.shields.io/badge/Trakteer-ff0000?style=for-the-badge&logo=trakteer&logoColor=white" />
 
@@ -101,6 +101,7 @@ fun main() {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarPriyadi&show_icons=true&theme=radical" />
 </p>
 
+  <br>
 <p align="center">
   <a href="https://github.com/TegarPriyadi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TegarPriyadi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
