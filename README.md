@@ -38,9 +38,6 @@
 
 ## B i o d a t a
 
-<span class="material-symbols-outlined">
-terminal
-</span>
 
 ```kt
 fun main() {
@@ -48,7 +45,7 @@ fun main() {
     val name = "TegarPriyadi"
     println("My name is $name")
 
-    val age = 101
+    val age = 404
     val gender = "Male"
 
     println("Age : $age Th")
