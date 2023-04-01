@@ -2,7 +2,7 @@
 <a href="https://github.com/TegarPriyadi"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=8726A1&width=435&lines=introduce+my+name+is+TegarPriyadi;I+live+in+Indonesia;welcome+to+my+github" alt="Typing SVG" /></a>
 </p>
 
-![TegarPriyadi's card name](https://cardivo.vercel.app/api?name=Tegar%20Priyadi&description=Hai,%20Aku%20TegarPriyadi%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.&image=https://telegra.ph/file/d8405f7e0db639e49e7bd.jpg?v=4&backgroundColor=%23ecf0f1&instagram=tegar__priyadi&github=TegarPriyadi&twitter=tegar__priyadi&pattern=leaf&colorPattern=%23eaeaea)
+![TegarPriyadi's card name](https://cardivo.vercel.app/api?name=Tegar%20Priyadi&description=Hai,%20Aku%20TegarPriyadi%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.&image=https://telegra.ph/file/d8405f7e0db639e49e7bd.jpg?v=4&backgroundColor=%23ecf0f1&instagram=tegar_priyadi&github=TegarPriyadi&twitter=tegar__priyadi&pattern=leaf&colorPattern=%23eaeaea)
 
 ## It's Me? :
 
