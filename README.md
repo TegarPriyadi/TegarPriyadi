@@ -145,7 +145,7 @@ fun main() {
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=TegarPriyadi.TegarPriyadi??style=for-the-badge&logo=appveyor"></a><br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=TegarPriyadi.TegarPriyadi??style=for-the-badge&logo=appveyor"><br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
