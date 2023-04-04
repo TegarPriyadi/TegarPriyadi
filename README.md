@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572"><img width="100%" src="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=header" style="max-width: 100%;"></a>
+
 <p align="center">
 <a href="https://github.com/TegarPriyadi"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=8726A1&width=435&lines=introduce+my+name+is+TegarPriyadi;I+live+in+Indonesia;welcome+to+my+github" alt="Typing SVG" /></a>
 </p>
@@ -156,6 +158,9 @@ fun main() {
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VpnSuR?referralCode=gzVx5l)
 
 <img src="https://camo.githubusercontent.com/b3ee861f85997a25b076a4bdc834b86150715075ee35572704c81c2604e0559c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f70686174696375737468696363792f57686174734173656e614475706c696361746564" alt="Run on Repl.it" data-canonical-src="https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated" style="max-width: 100%;">
+  
+<img src="https://camo.githubusercontent.com/dbd49fd11e4dea39effabf3572eb66edafb50d32aadb31c7458fe7e42ac93790/68747470733a2f2f7777772e6b6f7965622e636f6d2f7374617469632f696d616765732f6465706c6f792f627574746f6e2e737667" alt="Deploy to Koyeb" data-canonical-src="https://www.koyeb.com/static/images/deploy/button.svg" style="max-width: 100%;">
+  
 </p>
 
 <br>
@@ -171,7 +176,6 @@ fun main() {
 ```go
 
 ```
-    
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
     
     
