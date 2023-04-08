@@ -14,7 +14,6 @@
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48">
 </p>
 
-<br>
 <p align="center">
 <a href="https://github.com/TegarPriyadi"><img title="Author" src="https://img.shields.io/badge/Tegar-Priyadi-brightgreen?style=flat&logo=github"></a>
 
