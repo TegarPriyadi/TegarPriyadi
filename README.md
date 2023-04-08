@@ -1,11 +1,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572"><img width="100%" src="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=header" style="max-width: 100%;"></a>
 
 <p align="center">
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=8726A1&width=435&lines=introduce+my+name+is+TegarPriyadi;I+live+in+Indonesia;welcome+to+my+github" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=8726A1&width=435&lines=introduce+my+name+is+TegarPriyadi;I+live+in+Indonesia;welcome+to+my+github" alt="Typing SVG" />
 </p>
 
 ![TegarPriyadi's card name](https://cardivo.vercel.app/api?name=Tegar%20Priyadi&description=Hai,%20Aku%20TegarPriyadi%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.&image=https://telegra.ph/file/d8405f7e0db639e49e7bd.jpg?v=4&backgroundColor=%23ecf0f1&instagram=tegar__priyadi&github=TegarPriyadi&twitter=tegar__priyadi&pattern=leaf&colorPattern=%23eaeaea)
@@ -13,6 +9,10 @@
 ## It's Me? :
 
 > - Hy There, TEGARP4 Is Here!
+
+<p align="center">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48">
+</p>
 
 <br>
 <p align="center">
