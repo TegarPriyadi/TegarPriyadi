@@ -136,6 +136,10 @@ fun main() {
 <p align="center">
   <a href="https://github.com/TegarPriyadi"><img src="https://github-profile-trophy.vercel.app/?username=TegarPriyadi&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
+    
+    <a href="https://top.gg/bot/1105665505605468252">
+  <img src="https://top.gg/api/widget/1105665505605468252.svg">
+</a>
  
  <br>
 
