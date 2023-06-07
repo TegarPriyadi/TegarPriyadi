@@ -87,6 +87,8 @@ fun main() {
 <a href="https://web.facebook.com/tegar.priyadi.max/"><img src="https://img.shields.io/badge/Fb: TegarPriyadi-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 <a href="https://discord.gg/2pQJTCCbTT"><img src="https://img.shields.io/badge/Discord-404eed?style=for-the-badge&logo=discord&logoColor=white"/>
+  
+<a href="https://top.gg/bot/1105665505605468252"><img src="https://top.gg/api/widget/1105665505605468252.svg"></a>
 
 ---
 
@@ -137,9 +139,6 @@ fun main() {
   <a href="https://github.com/TegarPriyadi"><img src="https://github-profile-trophy.vercel.app/?username=TegarPriyadi&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
-    <a href="https://top.gg/bot/1105665505605468252">
-  <img src="https://top.gg/api/widget/1105665505605468252.svg">
-</a>
  
  <br>
 
